@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Press+Start+2P&family=VT323&display=swap');
+body{
+    color: 7678ED;
+    font-size: 30px;
+    font-family:'Open Sans', sans-serif;
+    background-image: url("https://i1.wp.com/images.hdqwalls.com/download/colorful-neon-city-4k-tx-3840x2400.jpg");
+    background-position: center;
+  }
+
+  #title h1{
+    font-family: 'Press Start 2P', cursive;
+    color: #e691ff;
+    font-weight: bolder;
+    font-size: 70px;
+    text-align: center;
+    text-shadow: 5px 5px 10px #571e70;
+    width: 600px;
+    margin: 0 auto;
+    padding: 100px;
+    line-height: 1.6;
+  }
+
+  #title img{
+    width: 150px;
+    border-radius: 75px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    bottom: 100;
+    border-style: ridge;
+    z-index: 10;
+}
+
+  h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: E28F83;
+    font-weight: lighter;
+    font-size: 30px;
+  }
+  #banner a {
+    background: linear-gradient(to bottom, #e691ff, #7CAFFF);
+    border: solid #7CAFFF 1px;
+    border-radius: 33px;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    text-shadow: 0px 2px 2px #000000;
+    box-shadow: 2px 2px 1px #0D2444;
+    font-family: 'Press Start 2P', cursive;
+    width: 60px;
+    opacity: 0.9;
+  }
+  #banner a:hover {
+    text-decoration: none;
+    color: FAF3F3;
+    opacity: 0.9;
+    background: linear-gradient(to top, #571e70, #7CAFFF);
+  }
+  
+  #banner{
+    background-image: linear-gradient(rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url("https://thumbs.dreamstime.com/b/retro-arcade-game-background-style-s-vector-illustration-125309337.jpg");
+    background-size: 2000px;
+    background-repeat: no-repeat;
+    padding: 200px;
+    color: white;
+    border-radius: 1000px;
+    box-shadow: 511281;
+    text-shadow: 1px 1px 5px black;
+    border-style: ridge;
+    justify-content: space-around;
+    height: 100;
+    weight: 30;
+    position: relative;
+    bottom: 150;
+    opacity: 0.93;
+  }
+
+  #banner p {
+    color: lightgrey;
+    font-size: 30px;
+    font-weight: lighter;
+    text-shadow: 2px 2px 5px white;
+    text-align: center;
+    position: relative;
+    bottom: 270;
+    padding: 50px;
+    font-family: 'VT323', monospace;
+    font-size: 35px;
+  }
+
+  #banner h2{
+    color: ECA3F5;
+    padding: 50px;
+    font-weight: lighter;
+    text-align: center;
+    text-shadow: 5px 5px 10px #571e70;
+    position: relative;
+    bottom: 220;
+    font-family: 'VT323', monospace;
+    font-size: 50px;
+  }
+
+  #footer a {
+    color: rgb(241, 236, 236);
+    font-size: 45px;
+    padding: 10px;
+    /* padding: 50px;
+    margin: 800px; */
+  }
+  #footer a:hover {
+    color: #bf44e498; 
+  }
+  #footer{
+    text-align: center;
+    padding: 5px;
+    background: rgba(50, 15, 65, 0.65);
+    opacity: 1;
+    height: 150px;
+    width: 8%;
+    margin: 0 auto;
+    border-radius: 45px;
+  }
+  .list-inline{
+      list-style: none;
+      padding: 0;
+  }
